@@ -21,4 +21,6 @@
 *{
   font-family: "Fira Sans", sans-serif;
 }
-
+a.active {
+  @apply bg-base-300;
+}
