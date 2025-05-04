@@ -1,0 +1,41 @@
+# 🐉 The Dragon News
+
+**The Dragon News** is a modern, responsive newspaper website built with **React**, **Tailwind CSS**, and **Vite**. Inspired by renowned publications like *The Daily Star*, it delivers a sleek and user-friendly digital news experience.
+
+---
+
+## 📸 Live Demo
+
+Coming soon...
+
+<!-- Or insert a link when hosted, like:
+[Live Site](https://your-live-link.netlify.app)
+-->
+
+---
+
+## ✨ Features
+
+- 📰 Clean and elegant news layout
+- 🔥 Category-based news sections (e.g., Politics, Sports, Tech)
+- 📱 Fully responsive design for mobile and desktop
+- 🔍 Dynamic routing for individual news articles
+- 🌙 Dark mode toggle (if implemented)
+- 📦 Fast performance with Vite + React
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** [React](https://reactjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Language:** JavaScript (ES6+)
+- **Routing:** React Router (optional, if included)
+
+---
+
+<!---
+sura1khan/sura1khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
