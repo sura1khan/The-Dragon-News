@@ -5,6 +5,8 @@ import LatestNews from '../Cpmponents/LatestNews';
 import Navbar from '../Cpmponents/Navbar';
 import LeftAside from '../Cpmponents/HomeLayout/LeftAside';
 import RightAside from '../Cpmponents/HomeLayout/RightAside';
+import FindUs from '../Cpmponents/FindUs';
+import Qzone from '../Cpmponents/HomeLayout/Qzone';
 
 const Home = () => {
     return (
@@ -19,7 +21,7 @@ const Home = () => {
                     <Navbar></Navbar>
                 </nav>
                 </header>
-                <main className='w-11/12 mx-auto my-3 
+                <main className='w-11/12 mx-auto my-3 gap-5
                 grid grid-cols-12'>
                     <aside className='col-span-3'> 
                         <LeftAside></LeftAside>
@@ -27,8 +29,10 @@ const Home = () => {
                     <section className='main col-span-6'>
                    <Outlet></Outlet>
                     </section>
-                    <aside  className='col-span-3'>
+                    <aside  className='col-span-3 space-y-5'>
                         <RightAside></RightAside>
+                        <FindUs></FindUs>
+                        <Qzone></Qzone>
                     </aside>
                <section className='right-nav'></section>
                 </main>
